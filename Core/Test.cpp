@@ -11,4 +11,11 @@ int main()
 
 //
 // change by bin
-//  bj
+//  bin j
+
+
+#ifndef fsd
+
+#define fsd
+ value
+#endif
