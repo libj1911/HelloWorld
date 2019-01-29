@@ -10,6 +10,15 @@ exit(0);
 }
 
 gd
+dfs
+dfsd
+dfsdfsd
+for (size_t
+  vb = 0;
+   vb < count;
+    vb++) {
+  /* code */
+}
 
 zvd
 
